@@ -47,3 +47,4 @@ Also on `^C`/`Os Interrupt` event!
 So you don't have a risk to loss data even on unexpected Exit event!
 
 
+> For contact: AnikHasibul@outlook.com
