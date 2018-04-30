@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/AnikHasibul/voot.svg?branch=master)](https://travis-ci.org/AnikHasibul/voot)
 # VooT DB
 ## Asynchronous Key Value Database
 
